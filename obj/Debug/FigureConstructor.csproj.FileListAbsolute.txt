@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\bin\Debug\FigureConstructor.exe.config
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\bin\Debug\FigureConstructor.exe
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\bin\Debug\FigureConstructor.pdb
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\obj\Debug\FigureConstructor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\obj\Debug\FigureConstructor.Form1.resources
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\obj\Debug\FigureConstructor.Properties.Resources.resources
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\obj\Debug\FigureConstructor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\obj\Debug\FigureConstructor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\obj\Debug\FigureConstructor.exe
+C:\Users\User\source\repos\FigureConstructor\FigureConstructor\obj\Debug\FigureConstructor.pdb
